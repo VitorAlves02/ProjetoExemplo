@@ -1,5 +1,7 @@
 # projetoexemplo
 
+Exemplo de projeto vue.js criado com vueX, router, typeScript, sass, eslint e vuetify
+
 ## Project setup
 ```
 yarn install
